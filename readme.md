@@ -1,7 +1,8 @@
 # DESCRIPCION GENERAL
 Este es un sistema de una farmacia en la que se puede realizar altas, bajas, modificaciones y consultas de diferentes empleados, proveedores, productos,etc.
 Además permite la compra y venta de productos de farmacia.
-
+# BD
+LEVANTAR ESTA BD EN EL PUERTO 3306 CON EL MISMO NOMBRE DEL ARCHIVO pharmacy_database
 # LOGIN
 user: nico
 password: 1234
