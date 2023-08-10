@@ -27,6 +27,6 @@ Los pasos a realizar son los siguientes;
 5) Agregar producto
 6) Repetir los pasos anteriores para agregar otro producto o vender si ya están todos
 
-#CRUD
+# CRUD
 
 El resto de modulos del programa nos permite operaciones CRUD de empleados, proveedores, clientes, productos, categorías, etc.
